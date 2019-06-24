@@ -1,0 +1,73 @@
+.color {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5vw !important;
+    color: white !important;
+}
+
+.colorwhite {
+    color:white !important;
+}
+
+.navbar-collapse {
+    color:white !important;
+
+}
+
+.paddingBot{
+    padding-bottom: 20px !important;
+}
+
+.paddingLeftRemove {
+    padding-left: 0px !important;
+}
+
+.paddingRightRemove{
+    padding-right: 0px !important;
+}
+
+.samewidth{
+    height:100%;
+}
+
+#pink{
+    background: linear-gradient(to top right, #0FFF60, #A2E841);
+}
+
+#pink2{
+    background: linear-gradient(to bottom right, #162AFF, #E5EB53);
+}
+
+#pink3{
+    background: linear-gradient(to bottom right, #31E07F, black);
+}
+
+#pink4{
+    background: linear-gradient(to bottom right, brown, orange);
+}
+
+.wider {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+}
+
+.jumbotron {
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+    background: url(bg.jpg) center;
+}
+
+.btnfont{
+    font-family: 'Permanent Marker', cursive;
+    background-color: darkslateblue !important;
+    border-color: white !important;
+}
+
+.noMargin {
+    margin-left: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.blackBorder {
+    border-color: black !important;
+}
